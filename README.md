@@ -54,6 +54,8 @@ Los datos recopilados se almacenan en la nube para su posterior análisis. En el
 
 ## Resultados
 
+En este [link](https://youtu.be/bfPR2rk7-RM) puedes encontrar una demostración del prototipo.
+
 A la hora de probar nuestro prototipo haciendo uso de la simulación de un sensor IoT con el script `SolicitudesIoT.py` obtuvimos las siguientes métricas de uso de Lambda y Kinesis junto a las respuestas de nuestro prototipo:
 
 ### Kinesis
